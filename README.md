@@ -30,3 +30,6 @@ A responsive static gaming website with a home page, game gallery, about page, a
 
 
 New games: **Snake** (keyboard and touch controls) and **Chess** (two-player pass-and-play, responsive board). Both are designed for mobile and laptop browsers.
+
+
+Additional games added: Neon Runner, Space Invaders, Brick Breaker, Tower Defense, Minesweeper, and Tic-Tac-Toe. Designed for mobile touch and laptop controls.
