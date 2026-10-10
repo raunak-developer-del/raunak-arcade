@@ -27,3 +27,6 @@ A responsive static gaming website with a home page, game gallery, about page, a
 ## Notes
 - Google Fonts are loaded from the web; if unavailable, the site falls back to system fonts.
 - GitHub Pages is public hosting. Do not add private information, API keys, or passwords.
+
+
+New games: **Snake** (keyboard and touch controls) and **Chess** (two-player pass-and-play, responsive board). Both are designed for mobile and laptop browsers.
